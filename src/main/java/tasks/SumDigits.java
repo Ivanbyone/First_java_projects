@@ -2,6 +2,8 @@ package tasks;
 
 import java.util.Scanner;
 
+// Дано трехзначное число. Найдите сумму его цифр.
+
 public class SumDigits {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
