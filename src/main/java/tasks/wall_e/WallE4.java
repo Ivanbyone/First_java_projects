@@ -1,7 +1,7 @@
 package tasks.wall_e;
 
 public class WallE4 {
-    int takeResult(int x,
+    public int takeResult(int x,
                    int t,
                    int k,
                    int n) {
