@@ -1,4 +1,4 @@
-package tasks;
+package tasks.wall_e;
 
 import java.util.Scanner;
 
